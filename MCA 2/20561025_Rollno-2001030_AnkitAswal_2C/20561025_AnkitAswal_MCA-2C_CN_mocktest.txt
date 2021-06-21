@@ -1,0 +1,5 @@
+what do you mean by computer networks ?
+A network is a set of devices (also called nodes) connected by communication links.
+A computer network is an inter connection between two or more computer that are able to exchnage information
+communication links example - copper wire,radio links etc..
+computer network may be located in a room ,city building or any where in the country.
